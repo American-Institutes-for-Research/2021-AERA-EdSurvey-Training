@@ -6,7 +6,7 @@ Thank you for registering for our AERA course on Analyzing Large-scale Assessmen
 
 Before the class, please install: 
 
-[R](https://www.r-project.org/) for your operating system 
+[R for your operating system](https://www.r-project.org/) 
 
 [RStudio Desktop](https://www.rstudio.com/)  
 
