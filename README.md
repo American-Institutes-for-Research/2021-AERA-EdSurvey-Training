@@ -8,7 +8,7 @@ Before the class, please install:
 
 [R for your operating system](https://www.r-project.org/) 
 
-[RStudio Desktop](https://www.rstudio.com/)  
+[RStudio Desktop](https://www.rstudio.com/products/rstudio/)  
 
 EdSurvey, by opening RStudio and running `install.packages("EdSurvey")`
 
