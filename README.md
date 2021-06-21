@@ -12,7 +12,7 @@ Before the class, please install:
 
 EdSurvey, by opening RStudio and running `install.packages("EdSurvey")`
 
-In addition, you can access and download all handouts through our GitHub repo. It contains the course agenda, presentation slides, R code scripts, and a course reading list. 
+In addition, you can access and download all handouts through our [GitHub repo](https://github.com/American-Institutes-for-Research/2021-AERA-EdSurvey-Training). It contains the course agenda, presentation slides, R code scripts, and a course reading list. 
 
 To help keep the course running smoothly please use the Q&A tool in the Zoom Webinar platform if you have any questions for this course. 
 
