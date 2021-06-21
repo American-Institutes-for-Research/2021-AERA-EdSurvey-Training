@@ -6,11 +6,11 @@ Thank you for registering for our AERA course on Analyzing Large-scale Assessmen
 
 Before the class, please install: 
 
-R for your operating system 
+[R](https://www.r-project.org/) for your operating system 
 
-RStudio Desktop  
+[RStudio Desktop](https://www.rstudio.com/)  
 
-EdSurvey, by opening RStudio and running install.packages("EdSurvey") 
+EdSurvey, by opening RStudio and running `install.packages("EdSurvey")`
 
 In addition, you can access and download all handouts through our GitHub repo. It contains the course agenda, presentation slides, R code scripts, and a course reading list. 
 
