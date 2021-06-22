@@ -16,6 +16,8 @@ In addition, you can access and download all handouts through our [GitHub repo](
 
 To help keep the course running smoothly please use the Q&A tool in the Zoom Webinar platform if you have any questions for this course. 
 
+Please find the wrap-up for the course [here](https://github.com/American-Institutes-for-Research/2021-AERA-EdSurvey-Training/files/6697370/Wrap.Up.pdf). 
+
 Warm Regards, 
 
 Emmanuel, Paul, Marty, Michael, Eric and Ting 
